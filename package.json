@@ -11,5 +11,10 @@
   "dependencies": {
     "chevrotain": "^3.0.1",
     "lodash": "^4.17.5"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poniraq/autto_lang"
   }
 }
