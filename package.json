@@ -1,6 +1,6 @@
 {
   "name": "autto_lang",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "AUTTO lexer, parser & visitor",
   "main": "lib/autto.js",
   "scripts": {
