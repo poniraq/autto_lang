@@ -1,0 +1,15 @@
+{
+  "name": "autto_lang",
+  "version": "1.0.0",
+  "description": "AUTTO lexer, parser & visitor",
+  "main": "lib/autto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poniraq@gmail.com",
+  "license": "WTFPL",
+  "dependencies": {
+    "chevrotain": "^3.0.1",
+    "lodash": "^4.17.5"
+  }
+}
